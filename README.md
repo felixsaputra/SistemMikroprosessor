@@ -1,7 +1,7 @@
 # SistemMikroprosessor
 
 ### To Do List
-- [ ] Create report in README.md no *.pdf no *.doc no *.docx are asked
+- [x] Create report in README.md
 - [ ] add picture and explanation for your learning process, explain here  
 - [ ] upload source code *.c and or *.h (which you created or edited) to this repository  
 - [ ] add reference or link where you have learn all this tools  
